@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.view_container {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to bottom, #2eafff, #b2e2ff);
+    /* background-image: url('/public/bg.jpg');
+    background-position: center left; */
+}
